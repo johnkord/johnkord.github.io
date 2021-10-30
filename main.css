@@ -1,0 +1,13 @@
+body {
+    font-family: 'Zen Kaku Gothic Antique', serif;
+    font-size: 18px;
+    line-height: 1.6;
+    padding-left: 20px;
+    background-color: white;
+}
+ul {
+    padding-left: 26px;
+}
+h3 {
+    margin: 0;
+}
