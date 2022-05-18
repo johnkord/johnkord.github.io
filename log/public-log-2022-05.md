@@ -1,6 +1,6 @@
 # Public Log 2022-05
 ## Article
-Name: Everything you should know about certificates and PKI but are too afraid to ask
+Name: **Everything you should know about certificates and PKI but are too afraid to ask**
 
 URI: https://smallstep.com/blog/everything-pki/
 
