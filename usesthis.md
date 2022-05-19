@@ -15,7 +15,7 @@ I used PC Part Picker to build a desktop machine in early 12020 HE:
 - Gigabyte Aorus Z390 motherboard
 - 64 GB RAM
 - 1 TB Samsung EVO 970
-- ~~NVidia 2080 Ti~~ NVidia 3070 Ti (My 2080 Ti died and is currently being repaired by MSI, which has taken 3 months so far)
+- ~~Nvidia 2080 Ti~~ Nvidia 3070 Ti (My 2080 Ti died and is currently being repaired by MSI, which has taken 3 months so far)
 - Logitech G432 Headset
 - Logitech G502 Mouse
 - Durgod K320 Mechanical Keyboard with Cherry MX Blue switches
@@ -46,6 +46,6 @@ I also have a Raspberry Pi cluster (6 devices) in my garage, which run Ubuntu 20
 - Adobe Creative Suite
 - Wacom Cintiq Pro
 - An assortment of VST/VSTi plugins
-- A top of the line 40xx GPU when they are available, for model training
+- A top of the line Nvidia 40xx GPU when they are available, for model training
 - I have been tempted by the Turing Pi 2, but I'm not sure I can justify the cost. I can almost certainly get better performance and power efficiency out of a single machine with a low end 12th generation Intel CPU. Also, Raspberry Pis are unavailable at MSRP virtually everywhere, so I'd have to overpay for them
 - I would like several tiny devices that can collect time series about the health of my plants, something like a Raspberry Pi Zero or even smaller. Simply put: devices that can take scientific measurements, run a basic prometheus exporter, and have WiFi!
