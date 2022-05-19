@@ -12,7 +12,7 @@ Along with this article, I also strongly recommend becoming familiar with the `o
 - Name: **rustlings**
 - URI: https://github.com/rust-lang/rustlings
 
-This is a great place to begin learning how to program in Rust. I think Rust is not the right language for beginners who want to learn how to understand software engineering; perhaps C or C++ would be a better choice for them. But for non-beginners, I strongly recommend learning how to understand and use Rust. This rustlings GitHub repository is a great place to start!
+This is a great place to begin learning how to program in Rust. I think Rust is not the right language for beginners who want to understand software engineering; perhaps C or C++ would be a better choice for them. But for non-beginners, I strongly recommend learning how to understand and use Rust.
 
 ### Article
 - Name: **Tools for a Culture of Writing**
