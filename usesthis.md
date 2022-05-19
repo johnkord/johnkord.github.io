@@ -5,7 +5,7 @@
 
 ### Who are you, and what do you do?
 
-My legal name is John Kordich and currently based in Redmond, WA. I design, connect, and write software for my career. In my free time I read, create music and art, actively love and tend to my friends, and take care of my home and community.
+My legal name is John Kordich and I am currently based in Redmond, WA. I design, connect, and write software for my career. In my free time I read, create music and art, actively love and tend to my friends, and take care of my home and community.
 
 ### What hardware do you use?
 
