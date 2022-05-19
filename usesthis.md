@@ -1,5 +1,6 @@
-## UsesThis (similar to https://usesthis.com)
-### John Kordich
+# UsesThis
+(in the style of https://usesthis.com)
+## John Kordich
 - engineer, aspiring scientist, artist, cybernetic organism, sentient being lover & lifelong vegan. pronouns: they/them/牠/void*
 - Last updated: May 18, 12022 HE
 
