@@ -21,3 +21,7 @@ This is a great place to begin learning how to program in Rust. I think Rust is 
 ### Article
 - Name: **Epistemic Legibility**
 - URI: https://acesounderglass.com/2022/02/07/epistemic-legibility/ (Archive URI: https://web.archive.org/web/20220419154716/https://acesounderglass.com/2022/02/07/epistemic-legibility/)
+
+### Article
+- Name: **Google's Code Review Developer Guide**
+- URI: https://google.github.io/eng-practices/review/
