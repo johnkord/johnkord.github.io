@@ -3,11 +3,11 @@
 - engineer, aspiring scientist, artist, cybernetic organism, sentient being lover & lifelong vegan. pronouns: they/them/牠/void*
 - Last updated: May 18, 12022 HE
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My legal name is John Kordich and currently based in Redmond, WA. I design, connect, and write software for my career. In my free time I read, create music and art, actively love and tend to my friends, and take care of my home and community.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I used PC Part Picker to build a desktop machine in early 12020 HE:
 - Intel i9-9900k
@@ -26,7 +26,7 @@ I use a Pixel 6 Pro, and it captures beautiful images, videos, and audio of my f
 
 I also have a Raspberry Pi cluster (6 devices) in my garage, which run Ubuntu 20.04, k3s, a bunch of Discord bots that I wrote to do silly things (like 'flatten' images/videos to 1 dimension), and various other applications.
 
-#### And what software?
+### And what software?
 - Dual booting Windows 11 and Ubuntu 22.04 on my PC
 - VS Code and IntelliJ for software development
 - Rust is my preferred language for software development, but I also use Python, C, C++, C#, Java, Go, Bash, PowerShell, and Typescript
@@ -39,7 +39,7 @@ I also have a Raspberry Pi cluster (6 devices) in my garage, which run Ubuntu 20
 - [Vaultwarden](https://github.com/dani-garcia/vaultwarden) in my Raspberry Pi cluster
 - Firefox: Google Mail/Calendar/Drive/Sheets, YouTube, Soundcloud, Reddit, Hacker News
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 - Dell U4021QW for creative/software work
 - Adobe Creative Suite
