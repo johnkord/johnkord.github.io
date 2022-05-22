@@ -25,3 +25,8 @@ This is a great place to begin learning how to program in Rust. I think Rust is 
 ### Article
 - Name: **Google's Code Review Developer Guide**
 - URI: https://google.github.io/eng-practices/review/
+
+## 12022-05-21 HE
+### Lecture
+- Name: **Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO**
+- URI: https://www.youtube.com/watch?v=90kZRyPcRZw
