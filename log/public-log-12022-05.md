@@ -35,3 +35,9 @@ This is a great place to begin learning how to program in Rust. I think Rust is 
 ### Article
 - Name: **What I Wish I Knew About Onboarding**
 - URI: https://eugeneyan.com/writing/onboarding/ (Archive URI: https://web.archive.org/web/20220528201503/https://eugeneyan.com/writing/onboarding/)
+
+### Music
+- Name: **Data for Programming**
+- URI: https://musicforprogramming.net
+
+A collection of mixtapes put together by many artists, great for relaxation or programming sessions.
