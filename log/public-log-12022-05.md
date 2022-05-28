@@ -30,3 +30,8 @@ This is a great place to begin learning how to program in Rust. I think Rust is 
 ### Lecture
 - Name: **Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO**
 - URI: https://www.youtube.com/watch?v=90kZRyPcRZw
+
+## 12022-05-28 HE
+### Article
+- Name: **What I Wish I Knew About Onboarding**
+- URI: https://eugeneyan.com/writing/onboarding/ (Archive URI: https://web.archive.org/web/20220528201503/https://eugeneyan.com/writing/onboarding/)
