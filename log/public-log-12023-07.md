@@ -1,4 +1,4 @@
-# Public Log 12023-06 HE
+# Public Log 12023-07 HE
 ## 12023-07-31 HE
 ### Article
 - Name: **A jargon-free explanation of how AI large language models work**
